@@ -709,6 +709,196 @@
             "guid": "Fj9hJ2p(ti",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stage&nbsp;{{c1::fright}}",
+                "<br><div>nervousness before or during an appearance before an audience</div><div><br></div><div>miédo escénico</div>"
+            ],
+            "guid": "uNLfb>!c,[",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::pressure}} group (influence)",
+                "<br><div>an interest group organized to influence public</div><div><br></div><div>grupo de presión</div>"
+            ],
+            "guid": "E9+6{?qbus",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::hatchet}} man&nbsp; (destroys reputation)",
+                "<br><div>a hired person who destroys sombody's enemy's reputation</div><div><br></div><div>un \"verdugo\" para destruir la reputación de alguin</div>"
+            ],
+            "guid": "L>c[(^+~F`",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::cupboard}} love (pretended, faked)",
+                "<br><div>affection that is feigned in order to obtain somehting</div><div><br></div><div>amor fingido por interés</div>"
+            ],
+            "guid": "Aa7J5zew0,",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a search&nbsp;{{c1::warrant}} (legal document)",
+                "<br><div>a legal document authorizing a police officer to search premises</div><div><br></div><div>orden de registro</div>"
+            ],
+            "guid": "]<C:Q2Sn>",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::punch}} line (joke)",
+                "<br><div>the final funny sentence of a joke or story</div><div><br></div><div>el remate de una broma</div>"
+            ],
+            "guid": "LkQ&>k$=[D",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::knowledge}} base (information)",
+                "<br><div>a collection of information about a particular subject</div><div><br></div><div>una base (de conocimiento)</div>"
+            ],
+            "guid": "i?/ff0>QhZ",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::monkey}} business (troublesome)",
+                "<br><div>a troublesome or mischievous secrect acting</div><div><br></div><div>trapicheo, negocios sucios</div>"
+            ],
+            "guid": "cJ&,<I*T|o",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::home}} truth (unpleasant fact)",
+                "<br><div>an unpleasant true fact someone tells about yourself</div><div><br></div><div>una verdad incómoda que alguien dice sobre ti</div>"
+            ],
+            "guid": "mcx&W}.2,K",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an&nbsp;{{c1::ocean}} current (water)",
+                "<br><div>the steadly flow of surface ocean water in a prevailing direction</div><div><br></div><div>corriente marina/oceánica</div>"
+            ],
+            "guid": "h86ra[feP@",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the rat&nbsp;{{c1::race}}",
+                "<br><div>an everlasting competition</div><div><br></div><div>competencia feroz, duradera</div>"
+            ],
+            "guid": "HWxbH7{6E-",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hobson's&nbsp;{{c1::choice}}",
+                "<br><div>a choice of taking what is available or nothing at all, the illusion of choice</div><div><br></div><div>una falsa elección donde te llevan a elegir lo que uno quiere</div>"
+            ],
+            "guid": "ObYC/tM(eS",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::elbow}} grease (hard cleaning)",
+                "<br><div>hard physical work to clean something</div><div><br></div><div>trabajo duro para limpiar algo</div>"
+            ],
+            "guid": "sy1w+eqo#M",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::shelf}} life",
+                "<br><div>a product usability period</div><div><br></div><div>vida útil</div>"
+            ],
+            "guid": "f<^Di&a>PY",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a flash {{c1::point}}",
+                "<br><div>a situation in which violence or anger starts and cannot be controlled</div><div><br></div><div>un punto de no retorno en una situación violenta</div>"
+            ],
+            "guid": "G|&1)_GN#v",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::road}} hog (driving)",
+                "<br><div>an inconsiderate driver</div><div><br></div><div>un mal conductor</div>"
+            ],
+            "guid": "uP<^#8W}.3",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::beauty}} parlour",
+                "<br><div>a shop where you can buy treatments for your skin or hair</div><div><br></div><div>una tienda de productos de belleza</div>"
+            ],
+            "guid": "Qf1+8qZZT>",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "property&nbsp;{{c1::rights}}",
+                "<br><div>the right to own and make profit from capital, land, etc</div><div><br></div><div>derechos de propiedad</div>"
+            ],
+            "guid": "z2hPA&[akX",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an {{c1::opinion}} poll",
+                "<br><div>an attempt to find out what people in general think about a subject</div><div><br></div><div>una encuesta de opinión</div>"
+            ],
+            "guid": "kE4?g3O/9.",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
         }
     ]
 }

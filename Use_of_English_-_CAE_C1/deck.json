@@ -1,0 +1,434 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4b127a66-44a3-11ec-be57-c0e434a5dbd3",
+    "deck_config_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Use of English - CAE C1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "two dolphins came up {{c1::right}} beside the boat<div><br></div><div>a) direct&nbsp;</div><div>b) right&nbsp;</div><div>c) precise</div><div>d) exact</div>",
+                ""
+            ],
+            "guid": "bmBb7R!^U-",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a golf {{c1::course}}<div><br></div><div>a) course</div><div>b) pitch</div><div>c) ground</div><div>d) court</div>",
+                ""
+            ],
+            "guid": "i*feu,^c?J",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is&nbsp;{{c1::trully}} a golfer's paradise<div><br></div><div>a) fully</div><div>b) trully</div><div>c) honestly</div><div>d) purely</div>",
+                ""
+            ],
+            "guid": "BuQ=?CHNY^",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The resorts have plenty to&nbsp;{{c1::offer}}<div><br></div><div>a) show</div><div>b) provide</div><div>c) offer</div><div>d) supply</div>",
+                ""
+            ],
+            "guid": "m`2C,q9Fy<",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Charleston is midway along the&nbsp;{{c1::coast}}<div><br></div><div>a) beach</div><div>b) coast</div><div>c) sea</div><div>d) shore</div>",
+                ""
+            ],
+            "guid": "P?dgdmC6sk",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The first shots were {{c1::fired}}<div><br></div><div>a) thrown</div><div>b) aimed</div><div>c) pulled</div><div>d) fired</div>",
+                ""
+            ],
+            "guid": "P!LAZZ0Sk!",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To get a&nbsp;{{c1::sense}} of the city's past<div><br></div><div>a) significance</div><div>b) meaning</div><div>c) sense</div><div>d) comprehension</div>",
+                ""
+            ],
+            "guid": "uM(4dn84vr",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Strict regulations {{c1::apply}} to this building<div><br></div><div>a) apply</div><div>b) happen</div><div>c) agree</div><div>d) occur</div>",
+                ""
+            ],
+            "guid": "cCVh>zru5f",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a part of the world&nbsp;{{c1::where}} temperatures can be high",
+                ""
+            ],
+            "guid": "yB{Ua6@eM}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "that race is long, but&nbsp;{{c1::this}} one is longer",
+                ""
+            ],
+            "guid": "fB]^.gtjB4",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the majority of&nbsp;{{c1::whose}} ages are 17",
+                ""
+            ],
+            "guid": "wYG$I[%3|}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Half of&nbsp;{{c1::them}} come from France",
+                ""
+            ],
+            "guid": "t%2yY-Sy)U",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "My ticket costs €2,500,&nbsp;{{c1::which}} includes return air fares",
+                ""
+            ],
+            "guid": "RaN(Oo{Z[U",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The race is rapidly&nbsp;{{c1::becoming}} more popular&nbsp;{{c2::despite}} or perhaps because of, the harsh conditions",
+                ""
+            ],
+            "guid": "s&g@aX,Ng5",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They have to carry food and&nbsp;{{c1::whatever/anything/everything}} they need",
+                ""
+            ],
+            "guid": "cbm$_dk<++",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The Norwegian explorer and {{c1::archaeologist}}&nbsp;<b>ARCHAEOLOGY</b>",
+                ""
+            ],
+            "guid": "f#|Y_L4=Y-",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "his name has become&nbsp;{{c1::inseparably}} <b>SEPARABLE</b>&nbsp;linked with ducks",
+                ""
+            ],
+            "guid": "gW0?eN;X6#",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "he became&nbsp;{{c1::increasingly}} <b>INCREASE</b>&nbsp;interested in ducks",
+                ""
+            ],
+            "guid": "xeL,r(GF.0",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "there were cultural&nbsp;{{c1::similarities}}<b>&nbsp;SIMILAR</b> to be found along the coast",
+                ""
+            ],
+            "guid": "lH{q,Bp]9J",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the&nbsp;{{c1::central}} <b>CENTRE</b>&nbsp;argument against my theory is...",
+                ""
+            ],
+            "guid": "M&5~`[cwfm",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "boats existed with the&nbsp;{{c1::capability}} <b>CAPABLE </b>of sailing",
+                ""
+            ],
+            "guid": "e.2TIF&Lp(",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "they wouldn't be able to cross such a&nbsp;{{c1::expanse}} <b>EXPAND</b>&nbsp;of ocean",
+                ""
+            ],
+            "guid": "LE(SQ-n5i7",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I caught&nbsp;{{c1::sight}} <b>SEE</b>&nbsp;of one of the islands",
+                ""
+            ],
+            "guid": "FRLRi8`%6(",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The reef was an&nbsp;{{c1::unavoidable}}&nbsp; <b>AVOID&nbsp;</b>obstacle",
+                ""
+            ],
+            "guid": "SU!iuO;[<",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Barbara's parents were certain that she would be a great tennis player<div><br></div><div>Barbara's parents were&nbsp;{{c1:: in no doubt}} <b>DOUBT</b>&nbsp;that she would be a great tennis player</div>",
+                ""
+            ],
+            "guid": "iNT4J_,7[O",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Most of the children ignored what the teacher had told them<div><br></div><div>Few of the children {{c1::took notice of}} <b>NOTICE</b>&nbsp;what the teacher had told them</div>",
+                ""
+            ],
+            "guid": "mmPm;^mju[",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I didn't realise how short the singer was until I saw him onstage<div><br></div><div>It was only&nbsp;{{c1::seeing him onstage that made}} <b>MADE</b> me realised how short the singer was</div>",
+                ""
+            ],
+            "guid": "MP6TI2Nqb!",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The company has a good reputation in the local area<div><br></div><div>The company&nbsp;{{c1::is highly thought/spoken}} <b>HIGHLY</b>&nbsp;of in the local area</div>",
+                ""
+            ],
+            "guid": "BvlZ!0}7k*",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I'm sure Jemma is going to become a famous model one day<div><br></div><div>I think it's only&nbsp;{{c1::a matter of time before}} <b>MATTER</b> Jemma becomes a famous model</div>",
+                ""
+            ],
+            "guid": "t1NB)3#jfj",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Everyone will enjoy the exhibition because there are no fewer than twenty dinosaurs on display.<div><br></div><div>This exhibition will appeal&nbsp;{{c1::to everyone because as many}} <b>MANY </b>as twenty dinosaurs are on display</div>",
+                ""
+            ],
+            "guid": "Lo^bmo]5IB",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "She has learnt a substantial amount from her university course<div><br></div><div>She has&nbsp;{{c1::gained a substantial amount of}} <b>GAINED</b>&nbsp;knowledge from her university course</div>",
+                ""
+            ],
+            "guid": "o7xjmFx5f",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        }
+    ]
+}

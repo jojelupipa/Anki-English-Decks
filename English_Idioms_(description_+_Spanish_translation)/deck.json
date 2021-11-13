@@ -1,0 +1,805 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "3b9e092e-44a3-11ec-934b-c0e434a5dbd3",
+    "deck_config_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "mid": 1482970733806,
+    "name": "English Idioms (description + Spanish translation)",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "to count your {{c1::blessings}}",
+                "to be grateful for what you have<div><br></div><div>agradecer lo que se tiene</div>"
+            ],
+            "guid": "G+EuSjAh;2",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to pay your&nbsp;{{c1::last}} respects",
+                "<br><div>offer tribute or acknowledgment of the dead</div><div><br></div><div>ofrecer los últimos respetos</div>"
+            ],
+            "guid": "Pl{k_@VEHR",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to look on the&nbsp;{{c1::bright}} side",
+                "<br><div>to be positive</div><div><br></div><div>mirar el lado bueno de las cosas</div>"
+            ],
+            "guid": "wEd;C!BjtD",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be six feet&nbsp;{{c1::under}}",
+                "<br><div>to be dead, colloquial</div><div><br></div><div>“estar 3 metros bajo el suelo”</div>"
+            ],
+            "guid": "p(TR.[<R@#",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be in the&nbsp;{{c1::family}} way",
+                "<br><div>to expect a newborn (for the first time)</div><div><br></div><div>esperar un hijo (por primera vez)</div>"
+            ],
+            "guid": "OZKa2}V4no",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to take the&nbsp;{{c1::bad}} with the good",
+                "<br><div>accept both negative and positive aspects of something</div><div><br></div><div>nada es perfecto, mira lo bueno y lo malo</div>"
+            ],
+            "guid": "uqQ?V~C`[=",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to&nbsp;{{c1::live}} on the breadline",
+                "<br><div>to be in a hard economic situation</div><div><br></div><div>vivir al día</div>"
+            ],
+            "guid": "g4}zArlG{t",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "from beyond the&nbsp;{{c1::grave}}",
+                "<br><div>when someone is dead but may be associated with something (e.g. it's like mom was talking to me from beyond the grave)</div><div><br></div><div>desde el más allá&nbsp;</div>"
+            ],
+            "guid": "OC8[Pk)ktp",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "life is not all&nbsp;{{c1::beer}} and skittles",
+                "<br><div>not everything in live is joy</div><div><br></div><div>no todo en la vida es de color rosa</div>"
+            ],
+            "guid": "xp4;URsx[(",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be pushing up (the)&nbsp;{{c1::daisies}}",
+                "<br><div>to be dead, informal</div><div><br></div><div>estar criando malvas</div>"
+            ],
+            "guid": "h+D1i<T!F9",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to have&nbsp;{{c1::green}} fingers",
+                "<br><div>to be good at gardening</div><div><br></div><div>tener pulgares verdes</div>"
+            ],
+            "guid": "mcz^1_#K?3",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::red}}-letter day",
+                "<br><div>a very important day</div><div><br></div><div>un día especial</div>"
+            ],
+            "guid": "v{g;+K]+zk",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to use some&nbsp;{{c1::grey}} matter",
+                "<br><div>to pay effort on thinking</div><div><br></div><div>usar el cerebro</div>"
+            ],
+            "guid": "rr~&8XEh7-",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lend&nbsp;{{c1::colour}} to something (add details)",
+                "<br><div>add details to make something more credible</div><div><br></div><div>aportar detalles que le dan veracidad a algo</div>"
+            ],
+            "guid": "pPfcCEJsQ/",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "once in a&nbsp;{{c1::blue}} moon",
+                "<br><div>very infrequently</div><div><br></div><div>muy infrecuentemente</div>"
+            ],
+            "guid": "s{S.Et;|Rx",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be kept in the&nbsp;{{c1::dark}}",
+                "<br><div>to hide something to someone</div><div><br></div><div>mantener apartado a alguien de algo</div>"
+            ],
+            "guid": "zKmPN_Rth4",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be in the&nbsp;{{c1::black}} (money)",
+                "<br><div>&nbsp;to be financially solvent</div><div><br></div><div>no estar en números rojos</div>"
+            ],
+            "guid": "PY+FKB$mQh",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::white}}-collar criminals<br>",
+                "<br><div>nonviolent criminals in corporations</div><div><br></div><div>criminales no violentos en corporaciones</div>"
+            ],
+            "guid": "pq=;h/ar)C",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be&nbsp;{{c1::yellow}}-bellied",
+                "<br><div>coward</div><div><br></div><div>ser cobarde</div>"
+            ],
+            "guid": "j!wbs~WB5J",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be tickled&nbsp;{{c1::pink}}",
+                "<br><div>very pleased, to the point of gidiness</div><div><br></div><div>agradecido, tal vez hasta la sensación de aturdición</div>"
+            ],
+            "guid": "NfV&P`w5AN",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in&nbsp;{{c1::next}} to no time",
+                "<br><div>very quickly or soon</div><div><br></div><div>en un “pispás”</div>"
+            ],
+            "guid": "|*0:jw(kp",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "not to be born&nbsp;{{c1::yesterday}}",
+                "<br><div>not to be easy to deceive or stupid</div><div><br></div><div>no haber nacido ayer</div>"
+            ],
+            "guid": "MS2@&5ot=X",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to work&nbsp;{{c1::against}} the clock",
+                "<br><div>doing something in a very limited amount of time</div><div><br></div><div>trabajar a contrarreloj</div>"
+            ],
+            "guid": "dKnC8`kT6:",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "on the&nbsp;{{c1::spur}} of time",
+                "<br><div>on impulse, without planning in advance</div><div><br></div><div>espontáneo, sin planearlo</div>"
+            ],
+            "guid": "uel5/]W8kE",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::live}} on borrowed time<br>",
+                "<br><div>likely to fail or die soon</div><div><br></div><div>no quedar mucho tiempo de vida</div>"
+            ],
+            "guid": "xd2ax~*^u5",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in the&nbsp;{{c1::long}} run",
+                "<br><div>over a long period of time</div><div><br></div><div>a largo plazo</div>"
+            ],
+            "guid": "G$@/wT)M{X",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "since time&nbsp;{{c1::immemorial}}",
+                "<br><div>for a very long time</div><div><br></div><div>desde tiempos inmemoriables</div>"
+            ],
+            "guid": "cquh+q-^PG",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "on the&nbsp;{{c1::dot}} (specified time)",
+                "<br><div>right on the specified time</div><div><br></div><div>justo en el momento especificado</div>"
+            ],
+            "guid": "L+xh-Oi#s7",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in the&nbsp;{{c1::nick}} of time",
+                "<br><div>only just in time, right before a deadline</div><div><br></div><div>justo a tiempo, antes del vencimiento de algo</div>"
+            ],
+            "guid": "tO$)RSy,&k",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "from the cradle to the&nbsp;{{c1::grave}}",
+                "<br><div>for all of a person's life</div><div><br></div><div>desde el nacimiento hasta el día de la muerte</div>"
+            ],
+            "guid": "x,+wHtZ_<a",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "poke one's {{c1::nose}} into something",
+                "<div><br></div>try to become involved in something that doesn't concern you<div><br></div><div>meter las narices</div>"
+            ],
+            "guid": "Fduh!](y!W",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "set {{c1::eyes}} on something&nbsp;",
+                "<br><div>see something, especially for the first time</div><div><br></div><div>ver algo, en especial por primera vez</div>"
+            ],
+            "guid": "hD9&=[Iz}D",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "put a brave {{c1::face}} on something",
+                "<br><div>hide feeling upset</div><div><br></div><div>esconder un descontento</div>"
+            ],
+            "guid": "BAEB/6pLd#",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "get something off your&nbsp;{{c1::chest}}",
+                "<br><div>talk about something that worries you</div><div><br></div><div>sácatelo del pecho</div>"
+            ],
+            "guid": "x-`~&D1aN=",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "put your&nbsp;{{c1::back}} into something (effort)",
+                "<br><div>to pay a lot of effort and energy on something</div><div><br></div><div>dejarse la espalda</div>"
+            ],
+            "guid": "QV*4z)8kG2",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "by the skin of one's&nbsp;{{c1::teeth}}",
+                "<br><div>by a very narrow margin</div><div><br></div><div>“por el canto de un duro”</div>"
+            ],
+            "guid": "o$-Vc=QBzL",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pull somebody's&nbsp;{{c1::leg}}",
+                "<br><div>claim something is not true as a joke</div><div><br></div><div>tomar el pelo</div>"
+            ],
+            "guid": "ibF`v|_*s.",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "have a change of&nbsp;{{c1::heart}}",
+                "<div><br></div><div>have a change in someone's opinion/feeling</div><div><br></div><div>cambiar de opinión sobre alguien</div>"
+            ],
+            "guid": "N{H|4l:e})",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cost an&nbsp;{{c1::arm}} and a leg",
+                "<br><div>to be very expensive</div><div><br></div><div>costar un riñón</div>"
+            ],
+            "guid": "r_ZZ^CQI5R",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "have something on the {{c1::brain}} (thinking a lot about something)",
+                "<br><div>to be always thinking about something</div><br><div>no sacarse algo de la cabeza</div>"
+            ],
+            "guid": "l4uiNpP[8`",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::foot}} the bill<br>",
+                "<br><div>paying something</div><div><br></div><div>pagar algo</div>"
+            ],
+            "guid": "f|_{0ax!@m",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::face}} the music<br>",
+                "<br><div>accept punishment/criticism for something you did wrong</div><div><br></div><div>afrontar las consecuencias</div>"
+            ],
+            "guid": "w=B(.zxzjQ",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::shoulder}} a responsibility<br>",
+                "<br><div>deal with or accept something difficult</div><div><br></div><div>enfrentarse a o aceptar algo difícil</div>"
+            ],
+            "guid": "NoVcT&EA/y",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::elbow}} your way<br>",
+                "<div><br></div>force one's way through a crowded place<div><br></div><div>abrirse paso en una aglomeración</div>"
+            ],
+            "guid": "Kyf!]_/_q)",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::thumb}} a lift",
+                "<br><div>make a signal to passing drivers with the thumb</div><div><br></div><div>hacer autostop</div>"
+            ],
+            "guid": "Fo<G,f4pwn",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::hand}} it to somebody (acknowledge sombody's work)",
+                "<br><div>give credit for something they did</div><div><br></div><div>reconocer la labor de alguien</div>"
+            ],
+            "guid": "D4j[_teI?2",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::toe}} the line (respect rules)",
+                "<br><div>accept rules and obey people in authority</div><div><br></div><div>acatar las normas y las autoridades</div>"
+            ],
+            "guid": "GhZqY0`n>B",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::nose}} around (as in: to look for information about somebody)",
+                "<br><div>look for something, information about somebody</div><div><br></div><div>buscando información sobre alguien, husmeando</div>"
+            ],
+            "guid": "N2STdnT8:W",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "down-at-{{c1::heel}}",
+                "<br><div>looking old and no longer in good condition</div><div><br></div><div>de apariencia desgastada por pobreza o sobreuso</div>"
+            ],
+            "guid": "F:W7/gsd16",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beauty is in the eye of the {{c1::beholder}}",
+                "<br><div>the perception of beauty is subjective</div><div><br></div><div>la belleza es subjetiva</div>"
+            ],
+            "guid": "m*kZS?!6Cm",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a sight for {{c1::sore}} eyes",
+                "<br><div>something you are very pleased to see</div><div><br></div><div>una alegría para la vista</div>"
+            ],
+            "guid": "gj/#n`Grgn",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "not a {{c1::hair}} out of place",
+                "<br><div>look very tidy and clean</div><div><br></div><div>impoluto, ordenado y limpio (persona)</div>"
+            ],
+            "guid": "r5djQP:`aI",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in your {{c1::birthday}} suit",
+                "<br><div>not wearing any clothes</div><div><br></div><div>como le trajeron al mundo</div>"
+            ],
+            "guid": "c,.j{&u7;A",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be {{c1::thin}} on top (getting bald)",
+                "<br><div>losing your hair</div><div><br></div><div>estar quedándose calvo</div>"
+            ],
+            "guid": "mdgX_jf5g:",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "don't {{c1::judge}} a book by its cover",
+                "<br><div>do not form opinion based on appearance</div><div><br></div><div>no juzgar a un libro por su portada</div>"
+            ],
+            "guid": "LE&1H~0MWQ",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "look like a {{c1::drowned}} rat",
+                "<br><div>look very wet and uncomfortable, especially due to heavy rain</div><div><br></div><div>estar empapado</div><div><br></div><div><br></div>"
+            ],
+            "guid": "nW;79[4cCc",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "put {{c1::years}} on somebody (make sth look older)",
+                "<br><div>cause to look or feel older</div><div><br></div><div>te hace parecer/sentir más viejo</div>"
+            ],
+            "guid": "lB+Y*]~Cm&",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "grin/smile {{c1::from}} ear to ear",
+                "<br><div>smile widely</div><div><br></div><div>sonrisa de oreja a oreja</div>"
+            ],
+            "guid": "GDbOQ=JVvn",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "take to sth like a {{c1::duck}} to water",
+                "<br><div>take to something very readily</div><div><br></div><div>encariñarse con algo rápidamente</div>"
+            ],
+            "guid": "dr;{.[Esj@",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "have a {{c1::bee}} in your bonnet",
+                "<br><div>to be preoccupied or obsessed with something</div><div><br></div><div>estar obsesionado con algo</div>"
+            ],
+            "guid": "Cph6)bH7vV",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "take the {{c1::bull}} by the horns",
+                "<br><div>deal with a difficult situation in a confident way</div><div><br></div><div>coger al toro por los cuernos</div>"
+            ],
+            "guid": "J9z%b-8OS9",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "let the {{c1::cat}} out of the bag",
+                "<br><div>reveal a secret</div><div><br></div><div>revelar un secreto</div>"
+            ],
+            "guid": "xSHi[c[L=K",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cry {{c1::crocodile}} tears",
+                "<br><div>become extremely emotional, moved, insincere</div><div><br></div><div>lágrimas de cocodrilo</div>"
+            ],
+            "guid": "L*v(VvjS&c",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "have {{c1::butterflies}} in one's stomach",
+                "<br><div>feel very nervous/excited about something</div><div><br></div><div>tener mariposas en el estómago</div>"
+            ],
+            "guid": "sMNfyV(gC}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "till the {{c1::cows}} come home",
+                "<br><div>for a long time, forever</div><div><br></div><div>hasta que los cerdos vuelen</div>"
+            ],
+            "guid": "k398KdT9$[",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hold one's {{c1::horses}}",
+                "<br><div>wait a moment</div><div><br></div><div>para el carro</div>"
+            ],
+            "guid": "tK=qp5&P+_",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "have a {{c1::whale}} of a time",
+                "<br><div>enjoy oneself very much</div><div><br></div><div>pasárselo en grande</div>"
+            ],
+            "guid": "ozdC]G`k27",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wild {{c1::goose}} chase",
+                "<br><div>an attempt to find something that doesn't exist</div><div><br></div><div>buscando algo que no existe</div>"
+            ],
+            "guid": "k{el34<(M;",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        }
+    ]
+}

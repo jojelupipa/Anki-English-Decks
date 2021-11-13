@@ -1,0 +1,714 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "036ebe7c-44a3-11ec-be57-c0e434a5dbd3",
+    "deck_config_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "036ed060-44a3-11ec-be57-c0e434a5dbd3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "English Collocations (description + Spanish translation)",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::golden}} handshake",
+                "<br><div>a large severance package due to termination</div><div><br></div><div>un finiquito generoso dado a un ejecutivo al ser cesado</div>"
+            ],
+            "guid": "v*K@xjH!!q",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::blatant}} lie",
+                "<br><div>very obvious and intentional</div><div><br></div><div>una mentira clamorosa</div>"
+            ],
+            "guid": "Ei5!xFopY|",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an {{c1::evasive}} answer",
+                "<br><div>an answer that avoids to answer a question or an allegation</div><div><br></div><div>una respuesta evasiva</div>"
+            ],
+            "guid": "pt4d3$vb;6",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an {{c1::avid}} reader",
+                "<br><div>very enthusiastic about something (reading)</div><div><br></div><div>un ávido lector</div>"
+            ],
+            "guid": "DxQFU7UrF3",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::permissive}} society",
+                "<br><div>society in which there is a great amount of freedom</div><div><br></div><div>una sociedad permisiva</div>"
+            ],
+            "guid": "wWviN3}|oB",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::terminal}} ilness",
+                "<br><div>an illness that can't be cured and will lead to death</div><div><br></div><div>una enfermedad terminal</div>"
+            ],
+            "guid": "fRc@`v?kpb",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::breathtaking}} view",
+                "<br><div>extremely beautiful view</div><div><br></div><div>una vista impresionante</div>"
+            ],
+            "guid": "Jd5O2A.K=i",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::foregone}} conclusion",
+                "<br><div>a result that you can be certain about before it happens</div><div><br></div><div>una conclusión previsible e inevitable o precipitada</div>"
+            ],
+            "guid": "nq2;.o_mfc",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::staunch}} supporter",
+                "<br><div>strong and loyal in your opinions and attitude</div><div><br></div><div>un apoyo incondicional</div>"
+            ],
+            "guid": "mAl@3hVND!",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::constructive}} criticism",
+                "<br><div>having or intented to have a useful/beneficial purpose</div><div><br></div><div>crítica constructiva</div>"
+            ],
+            "guid": "e/h^3z|k0e",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::vicious}} circle",
+                "<br><div>a situation in which one problem causes another problem</div><div><br></div><div>un círculo vicioso</div>"
+            ],
+            "guid": "ACjg:qvz+/",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wishful {{c1::thinking}}",
+                "<br><div>a belief that something that you want to be true is true</div><div><br></div><div>ilusionismo, deseo, ilusión de que algo sea cierto</div>"
+            ],
+            "guid": "e)oKwhK1/z",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an irresistible {{c1::temptation}}",
+                "<br><div>a strong desire that is impossible to control</div><div><br></div><div>una tentación irresistible</div>"
+            ],
+            "guid": "JU3A`G&5OY",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::working}} knowledge",
+                "<br><div>enough knowledge of a system, subject, language...</div><div><br></div><div>conocimiento básico, para salir del paso, no profundo</div>"
+            ],
+            "guid": "d+on*CB_LF",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a compulsive {{c1::liar}}",
+                "<br><div>someone who lies about everything for no reason</div><div><br></div><div>mentiroso compulsivo</div>"
+            ],
+            "guid": "m|Of=FzDAG",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "capital&nbsp;{{c1::punishment}}",
+                "<br><div>legally authorized killing of sb as punishment for a crime</div><div><br></div><div>pena capital/de muerte</div>"
+            ],
+            "guid": "vS0$P]P0_d",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a resounding {{c1::success}}",
+                "<br><div>a great success</div><div><br></div><div>un éxito rotundo</div>"
+            ],
+            "guid": "E=AvbyXk)`",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a golden&nbsp;{{c1::opportunity}}",
+                "<br><div>an excellent chance to do or get something</div><div><br></div><div>una oportunidad de oro</div>"
+            ],
+            "guid": "jL1HG9*vP-",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a crushing&nbsp;{{c1::blow}}",
+                "<br><div>a major defeat or setback</div><div><br></div><div>un golpe devastador (literal, una derrota o un contratiempo)</div>"
+            ],
+            "guid": "kE(w^^X;{C",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a recurrent&nbsp;{{c1::dream}}",
+                "<br><div>a dream that repeats frequently</div><div><br></div><div>un sueño recurrente</div>"
+            ],
+            "guid": "Nj?~;:s$MW",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an unpalatable&nbsp;{{c1::suggestion}}",
+                "<br><div>a very unpleasant suggestion</div><div><br></div><div>una sugerencia desagradable</div>"
+            ],
+            "guid": "A`A>jiEtk}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formative {{c1::years}}",
+                "<br><div>first few years of a child's life</div><div><br></div><div>primeros años de vida</div>"
+            ],
+            "guid": "hpWx!IP8S#",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::burning}} question",
+                "<br><div>an urgent/crucial issue under heated discussion</div><div><br></div><div>una pregunta que te quema, que ha de ser respondida urgentemente</div>"
+            ],
+            "guid": "N2&U$T[6z:",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "illegible&nbsp;{{c1::handwriting}}",
+                "<br><div>unable/difficult to read handwriting</div><div><br></div><div>letra ilegible</div>"
+            ],
+            "guid": "qe4zeC^*%{",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a forwarding {{c1::address}}",
+                "<div><br></div>an address you leave for somebody when you move to a new place<div><br></div><div>una dirección de contacto que se deja a alguien cuando te mudas</div>"
+            ],
+            "guid": "O}10S.a}-1",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pristine&nbsp;{{c1::condition}}",
+                "<br><div>a state of being like new, perfect condition</div><div><br></div><div>inmaculado, como nuevo</div>"
+            ],
+            "guid": ";sD;=QQQC",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a reedeming {{c1::feature}}",
+                "<br><div>a good quality that makes up for other drawbacks</div><div><br></div><div>una buena característica que compensa otras</div>"
+            ],
+            "guid": "v<WVcsOYAF",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a nodding {{c1::acquaitance}}",
+                "<br><div>a slight acquaitance with a person or knowledge of a subject</div><div><br></div><div>ligero conocimiento de alguien o de algún tema</div>"
+            ],
+            "guid": "t~-t+=Ot70",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an unenviable {{c1::reputation}}",
+                "<br><div>a bad reputation</div><div><br></div><div>una reputación mala</div>"
+            ],
+            "guid": "k}|3ww?]&S",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a prolific&nbsp;{{c1::writer}}",
+                "<br><div>a writer that produces a large number of works</div><div><br></div><div>un escritor prolífico</div>"
+            ],
+            "guid": "H70ym!~2ZM",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Its convenience is its only&nbsp;{{c1::saving}} grace",
+                "<br><div>a redeeming quality</div><div><br></div><div>lo que lo salva</div>"
+            ],
+            "guid": "OR$DDF$hr8",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the museums&nbsp;{{c1::unrivalled}} collection",
+                "<br><div>better than any other collection</div><div><br></div><div>una colección sin igual</div>"
+            ],
+            "guid": "sB3wbqz-LO",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "doing taxes should be {{c1::common}} knowledge",
+                "<br><div>something known by most people</div><div><br></div><div>conocimiento general</div>"
+            ],
+            "guid": "o3Xs7&LUh#",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::daunting}} task (very hard)",
+                "<br><div>a task that is difficult to deal with, almost frightening</div><div><br></div><div>una tarea ardua, imponente</div>"
+            ],
+            "guid": "gEvb6){wLS",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::downright}} lie (evident)",
+                "<br><div>an utter or complete lie</div><div><br></div><div>una mentira clamorosa, falacia</div>"
+            ],
+            "guid": "Cm}54FyDSY",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::passing}} reference (brief)",
+                "<br><div>a light/brief mention of something</div><div><br></div><div>una breve mención</div>"
+            ],
+            "guid": "D73l+Ib[]u",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::widespread}} criticism (prevalent)<br>",
+                "<br><div>prevalent/strong criticism</div><div><br></div><div>crítica generalizada</div>"
+            ],
+            "guid": "C2=IPiNm/I",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::delirict}} building (almost wrecked)",
+                "<br><div>a building in a very poor condition</div><div><br></div><div>un edificio semiderruido</div>"
+            ],
+            "guid": "qu1jk;`%H8",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::rampant}} inflation (fast-growing)<br>",
+                "<br><div>very fast-growing inflation</div><div><br></div><div>inflación pronunciada, rápidamente creciente</div>"
+            ],
+            "guid": "Aj2,4>ZN+}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::harrowing}} experience (frightening)",
+                "<br><div>a frightening/chilling/disturbing experience</div><div><br></div><div>una experiencia desgarradora</div>"
+            ],
+            "guid": "PTGnd6$&A6",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::going}} concern (operating and profitable business)<br>",
+                "<br><div>a business that is operating and making a profit</div><div><br></div><div>un asunto/negocio operativo y solvente</div>"
+            ],
+            "guid": "j_OWX`E+q|",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::besetting}} sin (particular bad habit)<br>",
+                "<br><div>a particular feature/habit, used humorously</div><div><br></div><div>un mal hábito que alguien suele mostrar, jocoso</div>"
+            ],
+            "guid": "Gd9HBvL,Oz",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::stumbling}}-block (stopping problem)<br>",
+                "<br><div>a problem that stops you from achieving something</div><div><br></div><div>un problema que impide el avance</div>"
+            ],
+            "guid": "hFf,o!ePsb",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::sweeping}} generalization (not valid)",
+                "<br><div>a statement that is too general and not valid</div><div><br></div><div>generalización indiscriminada</div>"
+            ],
+            "guid": "sWmXA@tcNg",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::recurring}} dream (that repeats)<br>",
+                "<br><div>a dream that repeats frequently</div><div><br></div><div>un sueño recurrente</div>"
+            ],
+            "guid": "j^v*Q1A7jx",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::breathing}} space (chance to think what to do next)",
+                "<br><div>an opportunity to pause/decide what to do next</div><div><br></div><div>un momento de respiro/reflexión</div>"
+            ],
+            "guid": "s.!A?+14I{",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::stamping}} ground (usual place to spend time)&nbsp;<br>",
+                "<br><div>a place where someone regularly spends time</div><div><br></div><div>territorio (figurado), lugar donde pasa el tiempo</div>"
+            ],
+            "guid": "KV]fni:AV^",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::shrinking}} violet (shy person)",
+                "<br><div>an exaggeratedly shy person</div><div><br></div><div>una persona muy tímida</div>"
+            ],
+            "guid": "r{}I*OFwpa",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::excruciating}} pain (strong, difficult to endure)<br>",
+                "<br><div>extremely strong pain that is difficult to endure</div><div><br></div><div>un dolor insoportable</div>"
+            ],
+            "guid": "bfH!-?N/tX",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an&nbsp;{{c1::arboreal}} animal (tree)",
+                "<br><div>related to trees, living in a tree</div><div><br></div><div>arbóreo</div>"
+            ],
+            "guid": "oNpaLj^eyS",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::belligerent}} attitude (willing to fight)",
+                "<br><div>very unfriendly and wanting to argue/fight</div><div><br></div><div>actitud beligerante/combativa</div>"
+            ],
+            "guid": "tsvK9Cm;e_",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::corporal}} punishment (physical)<br>",
+                "<br><div>physical punishment by hitting people</div><div><br></div><div>castigo físico</div>"
+            ],
+            "guid": "ASSQNhPKw%",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an&nbsp;{{c1::insatiable}} appetite",
+                "<br><div>always wanting more and never feeling satisfied</div><div><br></div><div>apetito insaciable</div>"
+            ],
+            "guid": "z<j&5LbBv,",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::pernicious}} effects (bad, evil)<br>",
+                "<br><div>very evil/harmful effects which may be hard to notice</div><div><br></div><div>efectos perniciosos/perjudiciales</div>"
+            ],
+            "guid": "klJU$o<yBB",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::fraternal}} love (brothers)<br>",
+                "<br><div>love between brothers</div><div><br></div><div>amor fraternal</div>"
+            ],
+            "guid": "NWL<,5h,0p",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::pecuniary}} advantage (money)",
+                "<br><div>related or connected with money</div><div><br></div><div>ventaja monetaria</div>"
+            ],
+            "guid": "Ja:O7!I8yz",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::regal}} splendour (royalty)<br>",
+                "<br><div>typical/suitable for a king/queen</div><div><br></div><div>esplendor de la realeza</div>"
+            ],
+            "guid": "q9[5]OCdYG",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::mortal}} blow (deadly)",
+                "<br><div>that causes death or very serious damage</div><div><br></div><div>un golpe mortal</div>"
+            ],
+            "guid": "I.@4QH:(n5",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::puerile}} joke (stupid)",
+                "<br><div>silly and stupid joke</div><div><br></div><div>una broma pueril/infantil</div>"
+            ],
+            "guid": "Fj9hJ2p(ti",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        }
+    ]
+}

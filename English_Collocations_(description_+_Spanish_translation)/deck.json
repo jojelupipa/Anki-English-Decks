@@ -899,6 +899,206 @@
             "guid": "kE4?g3O/9.",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a stream of&nbsp;{{c1::abuse}}",
+                "<br><div>a sequence of offensive words</div><div><br></div><div>una sucesión de palabras ofensivas</div>"
+            ],
+            "guid": "wfRBD!f`:V",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a figment of&nbsp;{{c1::imagination}}",
+                "<br><div>something imagined or created by your mind</div><div><br></div><div>algo imaginado o creado por tu mente</div>"
+            ],
+            "guid": "HPe.yJn-<.",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a quirk of&nbsp;{{c1::fate}}",
+                "<br><div>a strange and unexpected event</div><div><br></div><div>un inesperado acontecimiento&nbsp;</div>"
+            ],
+            "guid": "syEeT>].x?",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a breach of&nbsp;{{c1::confidence}}",
+                "<br><div>when someone gives away secret information</div><div><br></div><div>cuando alguien revela información secreta</div>"
+            ],
+            "guid": "QLEYi.>msX",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a flurry of {{c1::excitement}}",
+                "<br><div>a brief period of excitement</div><div><br></div><div>un breve periodo de entusiasmo</div>"
+            ],
+            "guid": "K-Mt.ybWXP",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a lapse of&nbsp;{{c1::memory}}",
+                "<br><div>a brief or temporary failure of memory</div><div><br></div><div>un lapsus</div>"
+            ],
+            "guid": "B0y8C|8M5o",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pangs of {{c1::conscience}}",
+                "<br><div>a feeling of shame, guilt or embarassment</div><div><br></div><div>un sentimiento de vergüenza o culpa</div>"
+            ],
+            "guid": "Bt8:Y7k&RD",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a stroke of&nbsp;{{c1::luck}}",
+                "<br><div>a sudden occurrence of luck or fortune</div><div><br></div><div>un golpe de suerte&nbsp;</div>"
+            ],
+            "guid": "dzI>^dWnqH",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a bone of&nbsp;{{c1::contention}}",
+                "<br><div>a subject over which there is continuing disagreement</div><div><br></div><div>tema de la discordia</div>"
+            ],
+            "guid": "HkqYJ)Y8[5",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a debt of&nbsp;{{c1::gratitude}}",
+                "<br><div>the fact of being grateful to someone who has helped you</div><div><br></div><div>una deuda de gratitud</div>"
+            ],
+            "guid": "uGjdb@EKs;",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::shred}} of doubt/evidence/paper/hope",
+                "<br><div>a strip</div><div><br></div><div>un trozo de papel, un ápice de duda, esperanza</div>"
+            ],
+            "guid": "QR>.g(^Bb?",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::bout}} of flu/sickness/coughing/depression",
+                "<br><div>attack/episode</div><div><br></div><div>un episodio/ataque de depresión, tos, gripe...</div>"
+            ],
+            "guid": "lX51goU;jR",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::spate}} of robberies/thefts/killings/attacks",
+                "<br><div>a sudden large number of</div><div><br></div><div>una ola de robos, atracos, ataques</div>"
+            ],
+            "guid": "Ev.e#Th,b*",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::pang}} of regret/remorse/guilt/jealousy",
+                "<br><div>a sudden feeling of...</div><div><br></div><div>una repentina sensación de arrepentimiento, remordimiento, culpa, celos</div>"
+            ],
+            "guid": "NAymEVsCOn",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::state}} of war/emergency/shock/collapse",
+                "<div><br></div><div>a harsh situation of a state</div><div><br></div><div>estado (país) de guerra, alarma, al borde de un colapso</div>"
+            ],
+            "guid": "wJahiO;*+G",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::branch}} of science/knowledge/the family/a tree",
+                "<br><div>a subset of a matter or a family; literally a branch of a tree</div><div><br></div><div>una rama de la ciencia, conocimiento, un árbol, familia</div>"
+            ],
+            "guid": "C{qB=fYHR,",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::flurry}} of speculation/activity/excitement/interest",
+                "<br><div>a sudden urge of these</div><div><br></div><div>un repentino auge de especulación, brote de actividad, entusiasmo o interés repentino</div>"
+            ],
+            "guid": "q+:vc6Aoel",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::wealth}} of details/facts/information/data",
+                "<br><div>a very large amount</div><div><br></div><div>una gran cantidad de detalles, hechos, información, datos</div>"
+            ],
+            "guid": "d.&&#Fq8V>",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a&nbsp;{{c1::flash}} of genius/light/inspiration/insight",
+                "<br><div>a sudden appearance of&nbsp;</div><div><br></div><div>una ráfaga de inspiración, inteligencia, un destello</div>"
+            ],
+            "guid": "i*M)k/&$1R",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::mean}} of transport/comunication/identification/expression",
+                "<br><div>a way to do something</div><div><br></div><div>medios de transporte, comunicación, expresión, identificación...</div>"
+            ],
+            "guid": "MoDpZq|K.F",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
         }
     ]
 }

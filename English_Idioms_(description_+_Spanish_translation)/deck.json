@@ -125,7 +125,7 @@
             "__type__": "Note",
             "fields": [
                 "to count your {{c1::blessings}}",
-                "to be grateful for what you have<div><br></div><div>agradecer lo que se tiene</div>"
+                "<br>to be grateful for what you have<div><br></div><div>agradecer lo que se tiene</div>"
             ],
             "guid": "G+EuSjAh;2",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
@@ -294,7 +294,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::white}}-collar criminals<br>",
+                "{{c1::white}}-collar criminals",
                 "<br><div>nonviolent criminals in corporations</div><div><br></div><div>criminales no violentos en corporaciones</div>"
             ],
             "guid": "pq=;h/ar)C",
@@ -364,7 +364,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::live}} on borrowed time<br>",
+                "{{c1::live}} on borrowed time",
                 "<br><div>likely to fail or die soon</div><div><br></div><div>no quedar mucho tiempo de vida</div>"
             ],
             "guid": "xd2ax~*^u5",
@@ -524,7 +524,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::foot}} the bill<br>",
+                "{{c1::foot}} the bill",
                 "<br><div>paying something</div><div><br></div><div>pagar algo</div>"
             ],
             "guid": "f|_{0ax!@m",
@@ -534,7 +534,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::face}} the music<br>",
+                "{{c1::face}} the music",
                 "<br><div>accept punishment/criticism for something you did wrong</div><div><br></div><div>afrontar las consecuencias</div>"
             ],
             "guid": "w=B(.zxzjQ",
@@ -544,7 +544,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::shoulder}} a responsibility<br>",
+                "{{c1::shoulder}} a responsibility (deal with)",
                 "<br><div>deal with or accept something difficult</div><div><br></div><div>enfrentarse a o aceptar algo difícil</div>"
             ],
             "guid": "NoVcT&EA/y",
@@ -554,7 +554,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::elbow}} your way<br>",
+                "{{c1::elbow}} your way (go across a crowded place)",
                 "<div><br></div>force one's way through a crowded place<div><br></div><div>abrirse paso en una aglomeración</div>"
             ],
             "guid": "Kyf!]_/_q)",
@@ -604,7 +604,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "down-at-{{c1::heel}}",
+                "down-at-{{c1::heel}} (worn)",
                 "<br><div>looking old and no longer in good condition</div><div><br></div><div>de apariencia desgastada por pobreza o sobreuso</div>"
             ],
             "guid": "F:W7/gsd16",
@@ -798,6 +798,206 @@
                 "<br><div>an attempt to find something that doesn't exist</div><div><br></div><div>buscando algo que no existe</div>"
             ],
             "guid": "k{el34<(M;",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flog a dead&nbsp;{{c1::horse}}",
+                "<br><div>pursue a hopeless cause</div><div><br></div><div>desperdiciar energía en una causa perdida, darse cabezazos contra la pared</div>"
+            ],
+            "guid": "IK]-RIsygT",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "like water off a {{c1::duck's}} back",
+                "<br><div>having no effect on someone</div><div><br></div><div>no tener efecto sobre alguien, \"le resbala\"</div>"
+            ],
+            "guid": "d$nPE8t2u!",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the&nbsp;{{c1::lion}}'s share",
+                "<br><div>the largest/best part of something</div><div><br></div><div>la mejor parte</div>"
+            ],
+            "guid": "M.[11Ts$@x",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "as the&nbsp;{{c1::crow}} flies",
+                "<br><div>in a straight line</div><div><br></div><div>en linea recta, a vuelo de pájaro</div>"
+            ],
+            "guid": "i3nf3CGxte",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eager&nbsp;{{c1::beaver}}",
+                "<br><div>an enthusiastic person who works very hard</div><div><br></div><div>una persona entusiasta y trabajadora, un currante</div>"
+            ],
+            "guid": "pe?IBj$2nN",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kill two&nbsp;{{c1::birds}} with one stone",
+                "<br><div>to achieve two things at the same time</div><div><br></div><div>matar dos pájaros de un tiro</div>"
+            ],
+            "guid": "f7SMeGyZG.",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "let sleeping&nbsp;{{c1::dogs}} lie",
+                "<br><div>leave things undisturbed</div><div><br></div><div>dejar las cosas como están</div>"
+            ],
+            "guid": "f.c!oVH{JM",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "not enough room to swing a {{c1::cat}}",
+                "<br><div>very little or no space, very cramped</div><div><br></div><div>no hay espacio, no cabe un alfiler</div>"
+            ],
+            "guid": "zbao@&b0[x",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mutton dressed as&nbsp;{{c1::lamb}}",
+                "<div><br></div><div>a woman who tries to make herself look younger</div><div><br></div><div>una mujer que intenta parecer más joven de lo que es realmente</div>"
+            ],
+            "guid": "QobgDs4Bs3",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cook someone's&nbsp;{{c1::goose}}",
+                "<br><div>spoil someone's plans</div><div><br></div><div>estropear el plan de alguien</div>"
+            ],
+            "guid": "r;QfA<biZS",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to be in the same&nbsp;{{c1::boat}} (hard situation)",
+                "<br><div>to be in the same difficult situation</div><div><br></div><div>estar en el mismo barco</div>"
+            ],
+            "guid": "K1Wu.Vg%#?",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be flying&nbsp;{{c1::high}} (success)",
+                "<br><div>be having a lot of success</div><div><br></div><div>estar en todo lo alto, triunfando</div>"
+            ],
+            "guid": "BJK8A*#sk8",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::come}} to a standstill<br>",
+                "<br><div>slow down and finally stop</div><div><br></div><div>pararse, detenerse</div>"
+            ],
+            "guid": "Ho-w$QW2jJ",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a backseat&nbsp;{{c1::driver}} (who criticizes)",
+                "<br><div>a passenger of the car who criticizes the driver</div><div><br></div><div>un pasajero que critica al conductor</div>"
+            ],
+            "guid": "t[?WGcs|f$",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "carry/take&nbsp;{{c1::coals}} to Newcastle",
+                "<br><div>take something to a place where it is not needed</div><div><br></div><div>llevar algo a un lugar donde no es necesario</div>"
+            ],
+            "guid": "iZc82$BE)o",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "life in the fast&nbsp;{{c1::lane}}",
+                "<br><div>a way of living that is full of excitement</div><div><br></div><div>una manera de vivir a tope</div>"
+            ],
+            "guid": "n6^%Z5np^.",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::off}} the beaten track<br>",
+                "<br><div>far away from places that people usually visit</div><div><br></div><div>en el quinto pino, un lugar dejado de la mano de dios</div>"
+            ],
+            "guid": "PC0}+7b0Xg",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "put the&nbsp;{{c1::cart}} before the horse",
+                "<br><div>do two things in the wrong order</div><div><br></div><div>hacer dos cosas en el orden incorrecto</div>"
+            ],
+            "guid": "nhHd~xWEI)",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "drive sombody&nbsp;{{c1::round}} the bend",
+                "<br><div>annoy someone</div><div><br></div><div>molestar a alguien</div>"
+            ],
+            "guid": "Agr!iX}QT}",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "take somebody for a&nbsp;{{c1::ride}}",
+                "<br><div>deceive or cheat someone, to take someone in a car to be killed afterwards, slang</div><div><br></div><div>tomar el pelo, engañar, embaucar, llevar a alguien en un coche para matarlo después</div>"
+            ],
+            "guid": "pQ1*PLev0j",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
             "tags": []
         }

@@ -924,7 +924,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::come}} to a standstill<br>",
+                "{{c1::come}} to a standstill",
                 "<br><div>slow down and finally stop</div><div><br></div><div>pararse, detenerse</div>"
             ],
             "guid": "Ho-w$QW2jJ",
@@ -964,7 +964,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::off}} the beaten track<br>",
+                "{{c1::off}} the beaten track",
                 "<br><div>far away from places that people usually visit</div><div><br></div><div>en el quinto pino, un lugar dejado de la mano de dios</div>"
             ],
             "guid": "PC0}+7b0Xg",
@@ -984,7 +984,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "drive sombody&nbsp;{{c1::round}} the bend",
+                "drive somebody&nbsp;{{c1::round}} the bend",
                 "<br><div>annoy someone</div><div><br></div><div>molestar a alguien</div>"
             ],
             "guid": "Agr!iX}QT}",
@@ -998,6 +998,116 @@
                 "<br><div>deceive or cheat someone, to take someone in a car to be killed afterwards, slang</div><div><br></div><div>tomar el pelo, engañar, embaucar, llevar a alguien en un coche para matarlo después</div>"
             ],
             "guid": "pQ1*PLev0j",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "drive a hard&nbsp;{{c1::bargain}} (dealmaker)",
+                "<br><div>to be a skillful negotiator or dealmaker</div><div><br></div><div>ser un negociante habilidoso, conseguir siempre tratos favorables</div>"
+            ],
+            "guid": "Jl$p!D@][",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "come&nbsp;{{c1::rain}} or shine",
+                "<br><div>whether it rains or not, whatever the weather</div><div><br></div><div>llueva o no, independientemente del tiempo atmosférico</div>"
+            ],
+            "guid": "c[zXfA/{3)",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to beat about the&nbsp;{{c1::bush}} (speak vaguely)",
+                "<br><div>discuss a matter vaguely avoiding the unpleasant point</div><div><br></div><div>marear la perdiz, andarse con rodeos, irse por las ramas</div>"
+            ],
+            "guid": "M5^4S[AFou",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bark up the wrong&nbsp;{{c1::tree}}",
+                "<br><div>doing something that will not get the desired result</div><div><br></div><div>equivocarse de objetivo, mear fuera del tiesto</div>"
+            ],
+            "guid": "jHOI:*nFy;",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "not hold&nbsp;{{c1::water}} (not to be true)",
+                "<br><div>not be or appear to be true</div><div><br></div><div>no parece cierto</div>"
+            ],
+            "guid": "K30@pleTSb",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "not to see the wood from the&nbsp;{{c1::trees}}",
+                "<br><div>not understand the main point about something</div><div><br></div><div>no entender la cuestión principal de algo</div>"
+            ],
+            "guid": "me@xajnzBr",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a {{c1::storm}} in a teacup",
+                "<br><div>great outrage or excitement about a trivial matter</div><div><br></div><div>un gran enfado o entusiasmo sobre algo trivial o irrelevante</div>"
+            ],
+            "guid": "HFp`T/@,L:",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "walk on&nbsp;{{c1::air}} (feel very happy)",
+                "<br><div>to feel very happy</div><div><br></div><div>estar muy feliz</div>"
+            ],
+            "guid": "O;z1(MfhsW",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "under a&nbsp;{{c1::cloud}} (suspicion)",
+                "<br><div>to be under suspicion or discredited</div><div><br></div><div>estar bajo sospecha</div>"
+            ],
+            "guid": "eWP;YD}QIg",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be in the {{c1::land}} the living",
+                "<br><div>not dead, alive</div><div><br></div><div>en la tierra de los vivos, estar vivo, no muerto</div>"
+            ],
+            "guid": "yQg_%WJ]J)",
+            "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "make a&nbsp;{{c1::mountain}} out of a molehill",
+                "<br><div>make an unimportant matter seem important</div><div><br></div><div>hacer una montaña de esto, exagerar un tema</div>"
+            ],
+            "guid": "Adw;Yy3?T4",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
             "tags": []
         }

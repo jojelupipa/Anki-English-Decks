@@ -343,7 +343,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a&nbsp;{{c1::burning}} question",
+                "a&nbsp;{{c1::burning}} question (urgent)",
                 "<br><div>an urgent/crucial issue under heated discussion</div><div><br></div><div>una pregunta que te quema, que ha de ser respondida urgentemente</div>"
             ],
             "guid": "N2&U$T[6z:",
@@ -433,7 +433,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the museums&nbsp;{{c1::unrivalled}} collection",
+                "the museums'&nbsp;{{c1::unrivalled}} collection",
                 "<br><div>better than any other collection</div><div><br></div><div>una colección sin igual</div>"
             ],
             "guid": "sB3wbqz-LO",
@@ -583,7 +583,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::stamping}} ground (usual place to spend time)&nbsp;<br>",
+                "{{c1::stamping}} ground (usual place to spend time)&nbsp;",
                 "<br><div>a place where someone regularly spends time</div><div><br></div><div>territorio (figurado), lugar donde pasa el tiempo</div>"
             ],
             "guid": "KV]fni:AV^",
@@ -603,7 +603,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::excruciating}} pain (strong, difficult to endure)<br>",
+                "{{c1::excruciating}} pain (strong, difficult to endure)",
                 "<br><div>extremely strong pain that is difficult to endure</div><div><br></div><div>un dolor insoportable</div>"
             ],
             "guid": "bfH!-?N/tX",
@@ -924,7 +924,7 @@
             "__type__": "Note",
             "fields": [
                 "a quirk of&nbsp;{{c1::fate}}",
-                "<br><div>a strange and unexpected event</div><div><br></div><div>un inesperado acontecimiento&nbsp;</div>"
+                "<br><div>a strange and unexpected event</div><div><br></div><div>un inesperado acontecimiento, caprichos del destino&nbsp;</div>"
             ],
             "guid": "syEeT>].x?",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
@@ -1013,7 +1013,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a&nbsp;{{c1::bout}} of flu/sickness/coughing/depression",
+                "a&nbsp;{{c1::bout}} of flu, sickness, coughing or depression",
                 "<br><div>attack/episode</div><div><br></div><div>un episodio/ataque de depresión, tos, gripe...</div>"
             ],
             "guid": "lX51goU;jR",
@@ -1023,7 +1023,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a&nbsp;{{c1::spate}} of robberies/thefts/killings/attacks",
+                "a&nbsp;{{c1::spate}} of robberies, thefts, killings, or attacks",
                 "<br><div>a sudden large number of</div><div><br></div><div>una ola de robos, atracos, ataques</div>"
             ],
             "guid": "Ev.e#Th,b*",
@@ -1063,7 +1063,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a&nbsp;{{c1::flurry}} of speculation/activity/excitement/interest",
+                "a&nbsp;{{c1::flurry}} of speculation, activity, excitement or interest",
                 "<br><div>a sudden urge of these</div><div><br></div><div>un repentino auge de especulación, brote de actividad, entusiasmo o interés repentino</div>"
             ],
             "guid": "q+:vc6Aoel",
@@ -1093,7 +1093,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a {{c1::mean}} of transport/comunication/identification/expression",
+                "a {{c1::mean}} of transport, comunication, identification, expression",
                 "<br><div>a way to do something</div><div><br></div><div>medios de transporte, comunicación, expresión, identificación...</div>"
             ],
             "guid": "MoDpZq|K.F",

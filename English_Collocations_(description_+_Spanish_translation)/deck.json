@@ -143,7 +143,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "an {{c1::evasive}} answer",
+                "an {{c1::evasive}} answer (avoids to answer)",
                 "<br><div>an answer that avoids to answer a question or an allegation</div><div><br></div><div>una respuesta evasiva</div>"
             ],
             "guid": "pt4d3$vb;6",
@@ -163,7 +163,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a {{c1::permissive}} society",
+                "a {{c1::permissive}} society (great amount of freedom)",
                 "<br><div>society in which there is a great amount of freedom</div><div><br></div><div>una sociedad permisiva</div>"
             ],
             "guid": "wWviN3}|oB",
@@ -213,7 +213,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::constructive}} criticism",
+                "{{c1::constructive}} criticism (useful)",
                 "<br><div>having or intented to have a useful/beneficial purpose</div><div><br></div><div>crítica constructiva</div>"
             ],
             "guid": "e/h^3z|k0e",
@@ -273,7 +273,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "capital&nbsp;{{c1::punishment}}",
+                "capital&nbsp;{{c1::punishment}} (sentenced to death)",
                 "<br><div>legally authorized killing of sb as punishment for a crime</div><div><br></div><div>pena capital/de muerte</div>"
             ],
             "guid": "vS0$P]P0_d",
@@ -393,7 +393,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a nodding {{c1::acquaitance}}",
+                "a nodding {{c1::acquaitance}} (person)",
                 "<br><div>a slight acquaitance with a person or knowledge of a subject</div><div><br></div><div>ligero conocimiento de alguien o de algún tema</div>"
             ],
             "guid": "t~-t+=Ot70",
@@ -483,7 +483,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::widespread}} criticism (prevalent)<br>",
+                "{{c1::widespread}} criticism (prevalent)",
                 "<br><div>prevalent/strong criticism</div><div><br></div><div>crítica generalizada</div>"
             ],
             "guid": "C2=IPiNm/I",
@@ -503,7 +503,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::rampant}} inflation (fast-growing)<br>",
+                "{{c1::rampant}} inflation (fast-growing)",
                 "<br><div>very fast-growing inflation</div><div><br></div><div>inflación pronunciada, rápidamente creciente</div>"
             ],
             "guid": "Aj2,4>ZN+}",
@@ -523,7 +523,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::going}} concern (operating and profitable business)<br>",
+                "{{c1::going}} concern (operating and profitable business)",
                 "<br><div>a business that is operating and making a profit</div><div><br></div><div>un asunto/negocio operativo y solvente</div>"
             ],
             "guid": "j_OWX`E+q|",
@@ -543,7 +543,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::stumbling}}-block (stopping problem)<br>",
+                "{{c1::stumbling}}-block (stopping problem)",
                 "<br><div>a problem that stops you from achieving something</div><div><br></div><div>un problema que impide el avance</div>"
             ],
             "guid": "hFf,o!ePsb",
@@ -653,7 +653,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::pernicious}} effects (bad, evil)<br>",
+                "{{c1::pernicious}} effects (bad, evil)",
                 "<br><div>very evil/harmful effects which may be hard to notice</div><div><br></div><div>efectos perniciosos/perjudiciales</div>"
             ],
             "guid": "klJU$o<yBB",
@@ -663,7 +663,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::fraternal}} love (brothers)<br>",
+                "{{c1::fraternal}} love (brothers)",
                 "<br><div>love between brothers</div><div><br></div><div>amor fraternal</div>"
             ],
             "guid": "NWL<,5h,0p",
@@ -853,7 +853,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "a flash {{c1::point}}",
+                "a flash {{c1::point}} (uncontrolled violent situation)",
                 "<br><div>a situation in which violence or anger starts and cannot be controlled</div><div><br></div><div>un punto de no retorno en una situación violenta</div>"
             ],
             "guid": "G|&1)_GN#v",
@@ -914,7 +914,7 @@
             "__type__": "Note",
             "fields": [
                 "a figment of&nbsp;{{c1::imagination}}",
-                "<br><div>something imagined or created by your mind</div><div><br></div><div>algo imaginado o creado por tu mente</div>"
+                "<br><div>something imagined or created by your mind</div><div><br></div><div>algo imaginado o creado por tu mente, producto de tu imaginación</div>"
             ],
             "guid": "HPe.yJn-<.",
             "note_model_uuid": "036f003a-44a3-11ec-be57-c0e434a5dbd3",
